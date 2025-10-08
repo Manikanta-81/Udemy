@@ -21,5 +21,4 @@ public class Literals {
 
 }
 
-
 // Arthimetic Operators above we have taked about literals and operators
