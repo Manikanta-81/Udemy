@@ -18,3 +18,6 @@ public class WhileLoop {
     }
 
 }
+
+
+// This is basically called Nested While Loop okay remeber you will not forget manikanta 
